@@ -10,7 +10,6 @@ An interactive React application that helps users discover targeted exercises by
 - 📺 Embedded YouTube videos in custom modal
 - 🐌 Lazy loading for images and videos
 - 🎨 Glassmorphism + responsive UI (Tailwind CSS)
-- ❌ Filters out non-embeddable YouTube videos
 - 📱 Mobile-friendly and accessible
 
 ---
