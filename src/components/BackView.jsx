@@ -23,8 +23,8 @@ function BackView({ handleMuscleClick }) {
               dx="0"
               dy="6"
               stdDeviation="6"
-              flood-color="black"
-              flood-opacity="0.5"
+              floodColor="black"
+              floodOpacity="0.5"
             />
           </filter>
           <stop
